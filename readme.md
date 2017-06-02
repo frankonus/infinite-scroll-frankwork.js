@@ -1,11 +1,11 @@
 Author: Frank van Deursen<br>
 Author URL: https://www.iamfrank.eu/<br>
 Author Email: me@iamfrank.eu<br>
-
+<br>
 
 ============ Synopsis ============<br>
 A small framework that can make elements of your choosing fade-in on scroll.
-<br>
+<br><br>
 
 ============ Code Example ============<br>
 The easiest way to use frankwork.js is putting the <fw-container> tag with <fw-post> tags inside it on the html page. The framework will now use his default settings.
@@ -21,7 +21,9 @@ The easiest way to use frankwork.js is putting the <fw-container> tag with <fw-p
     </fw-container>
 </body>
 ```
-If you want some own settings, place them inside your html page. (example below):
+<br>
+If you want some own settings, place them inside your html page. (example below):<br>
+```html
 ...
     <script>
         var fwCustomSettings = {
@@ -31,8 +33,9 @@ If you want some own settings, place them inside your html page. (example below)
         };
     </script>
 </head>
-
-============ Default settings ============
+```
+<br>
+============ Default settings ============<br>
     var fwSettings = {
         postOnLoad: 3, //How many posts you want to show on page load?
         postOnScroll: 4, //How many posts you want to add on scroll?
