@@ -38,7 +38,8 @@ If you want some own settings, place them inside your html page. (example below)
 
 <br>
 <br>
-============ Default settings ============<br>
+============ Default settings ============
+
 ```
     var fwSettings = {
         postOnLoad: 3, //How many posts you want to show on page load?
@@ -56,6 +57,7 @@ If you want some own settings, place them inside your html page. (example below)
         messageText: "We are sorry, but there isn't any more data to show..." //The text you want to show when all posts are visible.
     };
 ```
+
 <br><br>
 
 ============ Demo ============<br>
