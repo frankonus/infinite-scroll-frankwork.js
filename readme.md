@@ -24,7 +24,7 @@ The easiest way to use frankwork.js is putting the <fw-container> tag with <fw-p
 <br>
 If you want some own settings, place them inside your html page. (example below):<br>
 
-<blockquote>
+```
 ...
     <script>
         var fwCustomSettings = {
@@ -34,7 +34,8 @@ If you want some own settings, place them inside your html page. (example below)
         };
     </script>
 </head>
-</blockquote>
+```
+
 <br>
 <br>
 ============ Default settings ============<br>
