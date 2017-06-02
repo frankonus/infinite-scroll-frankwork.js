@@ -1,9 +1,9 @@
-Author: Frank van Deursen
-Author URL: https://www.iamfrank.eu/
-Author Email: me@iamfrank.eu
+Author: Frank van Deursen<br>
+Author URL: https://www.iamfrank.eu/<br>
+Author Email: me@iamfrank.eu<br>
 
 
-============ Synopsis ============
+============ Synopsis ============<br>
 A small framework that can make elements of your choosing fade-in on scroll.
 
 
