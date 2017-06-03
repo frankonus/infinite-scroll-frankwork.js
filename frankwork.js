@@ -1,3 +1,7 @@
+//Author: Frank van Deursen
+//Author URL: https://www.iamfrank.eu/
+//Author Email: me@iamfrank.eu
+
 $(document).ready(function () {
 
 
