@@ -1,4 +1,4 @@
-Author: Frank van Deursen<br>
+Author: Rob van Deursen<br>
 Author URL: https://www.iamfrank.eu/<br>
 Author Email: me@iamfrank.eu<br>
 <br>
